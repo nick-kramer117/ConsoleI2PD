@@ -40,10 +40,9 @@ Startup description (One-time launch):
 ### IMPORTANT: If you are running an I2PD router with a TCP server, it is only possible to stop the I2PD router using the TCP client command: < @:stop > !!!
 
 ### Command info: Server.
-
+* @:hi - Test command.
 * @:info - Output base info about i2pd router.
 * @:tr - Output info transport i2pd.
-* @:exit - close console i2pd client.
 * @:stop - kill i2pd service and exit.
 
 ### Owerview "ConsoleI2PD."
@@ -56,4 +55,3 @@ Single client run with command: < @:tr >
 
 Single client startup after ~10 hours of I2PD router operation, using the command: < @:info >
 ![](Images/view3.png)<br>
-
