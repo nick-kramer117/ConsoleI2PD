@@ -37,8 +37,7 @@ Startup description (One-time launch):
 @:? - Search for server commands.
 -h - Call helper.
 
-### IMPORTANT: If you are running an I2PD router with a TCP server, it is only possible to stop 
-###	   the I2PD router using the TCP client command: < @:stop > !!!
+### IMPORTANT: If you are running an I2PD router with a TCP server, it is only possible to stop the I2PD router using the TCP client command: < @:stop > !!!
 
 ### Command info: Server.
 
